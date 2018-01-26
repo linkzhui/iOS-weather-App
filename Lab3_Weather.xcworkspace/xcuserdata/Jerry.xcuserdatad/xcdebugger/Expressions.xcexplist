@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "CitySlideViewController.loadDataToStringList():CitySlideViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "weatherList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CitySlideViewController.viewDidLoad():CitySlideViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tableViewList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CityListViewController.updateWeatherDataFromJson(json:):CityListViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cityWeatherDataList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "CitySlideViewController.tableView(_:cellForRowAt:):CitySlideViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cellList">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
